@@ -3,7 +3,6 @@ pip3 install virtualenv<br>
 virtualenv env<br>
 source env/bin/activate<br>
 
-install pytube3<br>
 pip3 install pytube3<br>
 
 pip3 install playsound<br>
